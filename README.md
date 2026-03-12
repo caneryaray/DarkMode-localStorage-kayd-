@@ -25,8 +25,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için öncelikle projeyi GitHub
 
 
 
-komutu kullanılabilir. Bu komut çalıştırıldıktan sonra uygulama genellikle http://localhost:5173
- adresinde çalışacaktır.
 
 Bu proje, React geliştirirken custom hook kullanımı, localStorage ile veri saklama ve component tabanlı mimariyi daha iyi anlamak için hazırlanmıştır.
+
 
