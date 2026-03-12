@@ -17,19 +17,16 @@ Proje geliştirilirken modern React geliştirme araçlarından biri olan Vite ku
 
 Projeyi kendi bilgisayarınızda çalıştırmak için öncelikle projeyi GitHub üzerinden klonlamanız gerekir. Daha sonra proje klasörüne girip gerekli bağımlılıkları yükleyerek uygulamayı çalıştırabilirsiniz.
 
-Projeyi klonlamak için terminalde aşağıdaki komut kullanılabilir:
 
-git clone https://github.com/kullaniciadi/proje-adi.git
 
-Proje klasörüne girdikten sonra gerekli paketleri yüklemek için:
 
-npm install
 
-Uygulamayı geliştirme modunda çalıştırmak için ise:
 
-npm run dev
+
+
 
 komutu kullanılabilir. Bu komut çalıştırıldıktan sonra uygulama genellikle http://localhost:5173
  adresinde çalışacaktır.
 
 Bu proje, React geliştirirken custom hook kullanımı, localStorage ile veri saklama ve component tabanlı mimariyi daha iyi anlamak için hazırlanmıştır.
+
